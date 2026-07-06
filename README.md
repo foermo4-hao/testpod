@@ -1,9 +1,8 @@
-# testpod
+# testpod-kevin
 
-[![CI Status](https://img.shields.io/travis/haoluo1/testpod.svg?style=flat)](https://travis-ci.org/haoluo1/testpod)
-[![Version](https://img.shields.io/cocoapods/v/testpod.svg?style=flat)](https://cocoapods.org/pods/testpod)
-[![License](https://img.shields.io/cocoapods/l/testpod.svg?style=flat)](https://cocoapods.org/pods/testpod)
-[![Platform](https://img.shields.io/cocoapods/p/testpod.svg?style=flat)](https://cocoapods.org/pods/testpod)
+[![Version](https://img.shields.io/cocoapods/v/testpod-kevin.svg?style=flat)](https://cocoapods.org/pods/testpod-kevin)
+[![License](https://img.shields.io/cocoapods/l/testpod-kevin.svg?style=flat)](https://cocoapods.org/pods/testpod-kevin)
+[![Platform](https://img.shields.io/cocoapods/p/testpod-kevin.svg?style=flat)](https://cocoapods.org/pods/testpod-kevin)
 
 ## Example
 
@@ -13,17 +12,17 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-testpod is available through [CocoaPods](https://cocoapods.org). To install
+testpod-kevin is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'testpod'
+pod 'testpod-kevin'
 ```
 
 ## Author
 
-haoluo1, luohao@longshine.com
+kevin, hao_luo@126.com
 
 ## License
 
-testpod is available under the MIT license. See the LICENSE file for more info.
+testpod-kevin is available under the MIT license. See the LICENSE file for more info.
